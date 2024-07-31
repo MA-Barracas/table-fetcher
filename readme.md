@@ -45,9 +45,3 @@ If you have any questions, feel free to open an issue or contact me at [jose.lgo
 ## ⭐ Acknowledgements
 
 - Thanks to the open-source community for the libraries and tools used in this project.
-
----
-
-Feel free to enhance this README with any additional information or personal touches to suit your style. Happy coding! 🚀✨
-
----
